@@ -164,7 +164,7 @@ footer .footer_discl {
 .featured_wrapper {
     margin: 0 auto;
     width: 1100px;
-    margin-top: 90px;
+    margin-top: 50px;
     height: 800px;
     overflow: hidden;
 }
@@ -185,9 +185,9 @@ footer .footer_discl {
 }
 
 .featured_number {
-    font-size: 270px;
+    font-size: 230px;
     color: #ffffff;
-    transform: translate(260px,170px);
+    transform: translate(250px,170px);
     position: absolute;
 }
 
@@ -205,6 +205,7 @@ footer .footer_discl {
     font-size: 92px;
     text-transform: uppercase;
     padding: 0px 20px;
+    
 }
 
 .featured_second {
