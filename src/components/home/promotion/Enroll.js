@@ -95,8 +95,7 @@ export class  Enroll extends Component {
             })
         }
         
-
-        
+     
     }
 
     
@@ -119,7 +118,7 @@ export class  Enroll extends Component {
                                 <div className="error_label">Something is wrong, try again</div> 
                                 :null  
                             }
-    <div className="success_label">{ this.state.formSuccess }</div>
+                    <div className="success_label">{ this.state.formSuccess }</div>
                             <button onClick={(event) => this.submitForm(event)}>Enroll</button>
                             <div className="enroll_discl">
                                 Mancity is a team Mancity is a team Mancity is a team Mancity is a team Mancity is a team
