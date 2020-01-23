@@ -628,14 +628,14 @@ footer .footer_discl {
 
 .the_team_container {
     margin-top: 96px;
-    padding: 20px;
+    padding: 10px;
     background-size: 5px 5px !important;
     min-height:100vh;
 }
 
 .team_category_wrapper .title {
     font-size: 90px;
-    margin: 30px 0px;
+    margin: 20px 0px;
     font-family: 'Righteous', cursive;
     color: #d5ebfe;
 }
